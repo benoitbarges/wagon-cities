@@ -27,3 +27,8 @@ body {
   background-color: transparent;
   cursor: pointer;
 }
+
+.list-group-item.selected {
+  background-color: white;
+  color: black;
+}
